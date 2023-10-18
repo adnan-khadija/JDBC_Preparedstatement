@@ -1,6 +1,6 @@
 # JDBC_Preparedstatement
 # TAR
-Teste de l'ajout d'un service à partir de l'interface utilisateur pour l'intégrer à la base de données:
+L'ajout d'un service à partir de l'interface utilisateur pour l'intégrer à la base de données:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/5d892ff8-83c4-45e5-9346-55c0e1767ff0)
 
