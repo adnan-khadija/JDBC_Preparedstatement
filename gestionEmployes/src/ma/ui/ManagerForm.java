@@ -18,7 +18,7 @@ import ma.projet.service.ManagerService;
 
 
 
-public class ManagerForm extenms javax.swing.JInternalFrame {
+public class ManagerForm extends javax.swing.JInternalFrame {
        
  
    
