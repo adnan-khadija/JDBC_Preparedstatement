@@ -20,6 +20,14 @@ La modificatin d'un service à partir de l'interface utilisateur:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/e1b2b8a8-e6f2-4a04-a261-d7ce3595d902)
 
+# TP5
+L'ajoute d'un profil
+
+![image](https://github.com/adnan-khadija/JDBC_Preparedstatement/assets/147508009/3f7eccb0-4d56-439c-9178-355fd56749cb)
+
+![image](https://github.com/adnan-khadija/JDBC_Preparedstatement/assets/147508009/541bc351-0284-4318-9725-fae53bb3f2c8)
+![image](https://github.com/adnan-khadija/JDBC_Preparedstatement/assets/147508009/3e3855ac-0923-43b9-8c54-968d1ec96746)
+
 L'ajoute d'un service à la base de donnée:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/49038523-5ecf-40c3-b16e-0bc15a676dd4)
