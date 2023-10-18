@@ -8,18 +8,25 @@ Teste de l'ajout d'un service à partir de l'interface utilisateur pour l'intég
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/22aa643a-56fe-4e37-9104-d5c404aacef8)
 
+La suppression d'un service:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/274fa509-f1af-4232-b432-28abefe170d7)
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/6a13ab7e-b279-46ae-be46-9d0a5b7b398a)
 
+La modificatin d'un service à partir de l'interface utilisateur:
+
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/502ef500-59e5-4a52-ba29-55bd455f0ef9)
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/e1b2b8a8-e6f2-4a04-a261-d7ce3595d902)
 
+L'ajoute d'un service à la base de donnée:
+
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/49038523-5ecf-40c3-b16e-0bc15a676dd4)
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/7747e58b-8b5e-4845-92e1-f33f3cdde5bf)
+
+Effectuer une recherche des clients en fonction des services:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/be2e7f10-3efc-4b6b-b5a6-fd035e9fadd3)
 
